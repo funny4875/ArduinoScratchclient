@@ -1,3 +1,5 @@
+#dowload scratchclient: 
+#pip install scratchclient
 from scratchclient import ScratchSession
 import time
 import serial
